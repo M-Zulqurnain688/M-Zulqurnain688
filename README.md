@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Zulqurnain
+# Hi 👋, I'm Muhammad Zulqurnain Ali
 
 A passionate mobile app developer.
 
