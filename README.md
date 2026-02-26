@@ -36,5 +36,6 @@ A passionate mobile app developer.
 
 ## My GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" /> -->
+<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=M-Zulqurnain688)](https://git.io/streak-stats)" alt="M-Zulqurnain688" />
 </p>
