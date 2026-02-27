@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Zulqurnain Ali
+<!--# Hi 👋, I'm Muhammad Zulqurnain Ali
 
 A passionate mobile app developer.
 
@@ -7,6 +7,35 @@ A passionate mobile app developer.
 - 🤝 I’m looking to collaborate on **Mobile Apps**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: [muhammadzulqurnain573@gmail.com](mailto:muhammadzulqurnain573@gmail.com)
+
+--->
+# Hi 👋, I'm Muhammad Zulqurnain Ali
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>A passionate mobile app developer.</h3>
+      <p>
+        - 🛠 I’m currently working on <b>Flutter</b><br>
+        - 🌱 I’m currently learning <b>Node.js & Express</b><br>
+        - 🤝 I’m looking to collaborate on <b>Mobile Apps</b><br>
+        - 💬 Ask me about <b>Flutter</b><br>
+        - 📫 How to reach me: <a href="mailto:muhammadzulqurnain573@gmail.com">Email Me</a>
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/muhammad-zulqurnain-ali-98bb19218/" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <a href="https://github.com/M-Zulqurnain688/contribution-quest-card">
+        <img src="https://contribution-quest-card.vercel.app/github-badge/M-Zulqurnain688" alt="Contribution Quest Card" width="100%" />
+      </a>
+      <p align="right"><sub><i>Live Dynamic Stats ⚔️</i></sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,8 +71,8 @@ A passionate mobile app developer.
 <!-- </p> -->
 ---
 
-## 📊 Activity & Stats
-<details>
+<!--## 📊 Activity & Stats-->
+<!-- <details>
   <summary><b>Click to expand my Live GitHub Battle Stats ⚔️</b></summary>
   <br />
   
@@ -62,6 +91,6 @@ A passionate mobile app developer.
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=dark" alt="General Stats" />
   </p>
-</details>
+</details> -->
 
----
+<!--->
