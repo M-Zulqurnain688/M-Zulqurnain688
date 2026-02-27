@@ -22,11 +22,11 @@ A passionate mobile app developer.
         - 💬 Ask me about <b>Flutter</b><br>
         - 📫 How to reach me: <a href="mailto:muhammadzulqurnain573@gmail.com">Email Me</a>
       </p>
-      <p>
+      <!-- <p>
         <a href="https://www.linkedin.com/in/muhammad-zulqurnain-ali-98bb19218/" target="blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
-      </p>
+      </p> -->
     </td>
     <td width="40%" valign="top" align="right">
       <a href="https://github.com/M-Zulqurnain688/contribution-quest-card">
