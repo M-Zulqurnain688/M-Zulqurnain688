@@ -69,7 +69,6 @@ A passionate mobile app developer.
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" />
   </p>
----
 
 <!--## 📊 Activity & Stats-->
 <!-- <details>
