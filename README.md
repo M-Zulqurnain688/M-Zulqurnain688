@@ -64,11 +64,11 @@ A passionate mobile app developer.
 ---
 
 <!--## My GitHub Stats:-->
-<!-- <p align="left"> -->
-  <!-- <a href="https://streak-stats.demolab.com?user=M-Zulqurnain688"> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" /> -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" /> -->
-<!-- </p> -->
+<p align="left">
+  <a href="https://streak-stats.demolab.com?user=M-Zulqurnain688">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" /> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" />
+  </p>
 ---
 
 <!--## 📊 Activity & Stats-->
