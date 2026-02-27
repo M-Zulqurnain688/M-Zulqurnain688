@@ -34,9 +34,34 @@ A passionate mobile app developer.
 
 ---
 
-## My GitHub Stats:
-<p align="left">
-  <a href="https://streak-stats.demolab.com?user=M-Zulqurnain688">
+<!--## My GitHub Stats:-->
+<!-- <p align="left"> -->
+  <!-- <a href="https://streak-stats.demolab.com?user=M-Zulqurnain688"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" />
-</p>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Zulqurnain688&show_icons=true&theme=dark" alt="M-Zulqurnain688" /> -->
+<!-- </p> -->
+---
+
+## 📊 Activity & Stats
+<details>
+  <summary><b>Click to expand my Live GitHub Battle Stats ⚔️</b></summary>
+  <br />
+  
+  <p align="center">
+    <a href="https://github.com/M-Zulqurnain688/contribution-quest-card">
+      <img src="https://contribution-quest-card.vercel.app/github-badge/M-Zulqurnain688?color=00FF94" alt="Contribution Quest Card" width="495" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://streak-stats.demolab.com?user=M-Zulqurnain688">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Zulqurnain688&theme=dark" alt="GitHub Streak" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=dark" alt="General Stats" />
+  </p>
+</details>
+
+---
