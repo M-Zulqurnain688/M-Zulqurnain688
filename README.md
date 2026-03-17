@@ -72,7 +72,7 @@ A passionate mobile app developer.
     
 ![Zulqurnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=tokyonight&rank_icon=github)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Zulqurnain688&layout=compact&theme=tokyonight)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Zulqurnain688&layout=compact&theme=tokyonight)
 <!--## 📊 Activity & Stats-->
 <!-- <details>
   <summary><b>Click to expand my Live GitHub Battle Stats ⚔️</b></summary>
