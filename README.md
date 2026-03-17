@@ -73,6 +73,7 @@ A passionate mobile app developer.
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="48%" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Zulqurnain688&layout=compact&theme=tokyonight" width="45%" /> -->
 <p align="center">
+  
   ![Zulqurnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Zulqurnain688&show_icons=true&theme=tokyonight&rank_icon=github)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Zulqurnain688&layout=compact&theme=tokyonight)
 </p>
