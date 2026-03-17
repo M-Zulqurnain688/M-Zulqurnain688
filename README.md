@@ -24,7 +24,7 @@
 
 ---
 
-#### 📦 My Open Source Packages
+#### 📦 My Open Source Package
 <p align="left">
   <a href="https://pub.dev/packages/flutter_animated_toast">
     <img src="https://img.shields.io/badge/flutter_animated_toast-v0.0.4-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
